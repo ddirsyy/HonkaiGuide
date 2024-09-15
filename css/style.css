@@ -1,0 +1,18 @@
+.col{
+padding-bottom: 50px;
+margin-left: 55px;
+}
+#carouselExampleIndicators{
+padding-top: 50px;
+}
+.row{
+padding-top: 50px;
+}
+#footer{
+    background: #a6bce359;
+	width: 100%;
+	height: 120px;
+    justify-content: left;/*в центре по горизонтали*/
+    align-items: left;/*в центре по вертикали*/
+    flex-direction: column;
+}
